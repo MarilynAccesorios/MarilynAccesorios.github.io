@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://marilynaccesorios.github.io/static/css/main.c397ae4c.css",
-    "main.js": "https://marilynaccesorios.github.io/static/js/main.75e3ad54.js",
+    "main.css": "https://marilynaccesorios.github.io/static/css/main.26b4226f.css",
+    "main.js": "https://marilynaccesorios.github.io/static/js/main.ba5389c0.js",
     "static/js/787.9e9f4ffd.chunk.js": "https://marilynaccesorios.github.io/static/js/787.9e9f4ffd.chunk.js",
     "static/media/success.svg": "https://marilynaccesorios.github.io/static/media/success.5968f51bcdcc67f3127d13877094ed55.svg",
     "static/media/404.png": "https://marilynaccesorios.github.io/static/media/404.407f433d1a4fae14226e.png",
     "static/media/img.png": "https://marilynaccesorios.github.io/static/media/img.b6efa7246be362157f58.png",
     "index.html": "https://marilynaccesorios.github.io/index.html",
-    "main.c397ae4c.css.map": "https://marilynaccesorios.github.io/static/css/main.c397ae4c.css.map",
-    "main.75e3ad54.js.map": "https://marilynaccesorios.github.io/static/js/main.75e3ad54.js.map",
+    "main.26b4226f.css.map": "https://marilynaccesorios.github.io/static/css/main.26b4226f.css.map",
+    "main.ba5389c0.js.map": "https://marilynaccesorios.github.io/static/js/main.ba5389c0.js.map",
     "787.9e9f4ffd.chunk.js.map": "https://marilynaccesorios.github.io/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c397ae4c.css",
-    "static/js/main.75e3ad54.js"
+    "static/css/main.26b4226f.css",
+    "static/js/main.ba5389c0.js"
   ]
 }
