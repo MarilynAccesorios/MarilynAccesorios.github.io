@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://marilynaccesorios.github.io/static/css/main.26b4226f.css",
-    "main.js": "https://marilynaccesorios.github.io/static/js/main.ba5389c0.js",
-    "static/js/787.9e9f4ffd.chunk.js": "https://marilynaccesorios.github.io/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/success.svg": "https://marilynaccesorios.github.io/static/media/success.5968f51bcdcc67f3127d13877094ed55.svg",
-    "static/media/404.png": "https://marilynaccesorios.github.io/static/media/404.407f433d1a4fae14226e.png",
-    "static/media/img.png": "https://marilynaccesorios.github.io/static/media/img.b6efa7246be362157f58.png",
-    "index.html": "https://marilynaccesorios.github.io/index.html",
-    "main.26b4226f.css.map": "https://marilynaccesorios.github.io/static/css/main.26b4226f.css.map",
-    "main.ba5389c0.js.map": "https://marilynaccesorios.github.io/static/js/main.ba5389c0.js.map",
-    "787.9e9f4ffd.chunk.js.map": "https://marilynaccesorios.github.io/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "http://localhost:3000/static/css/main.0148fa34.css",
+    "main.js": "http://localhost:3000/static/js/main.b5547abc.js",
+    "static/js/496.00ca179d.chunk.js": "http://localhost:3000/static/js/496.00ca179d.chunk.js",
+    "static/media/success.svg": "http://localhost:3000/static/media/success.5968f51bcdcc67f3127d13877094ed55.svg",
+    "static/media/404.png": "http://localhost:3000/static/media/404.407f433d1a4fae14226e.png",
+    "static/media/img.png": "http://localhost:3000/static/media/img.b6efa7246be362157f58.png",
+    "index.html": "http://localhost:3000/index.html",
+    "main.0148fa34.css.map": "http://localhost:3000/static/css/main.0148fa34.css.map",
+    "main.b5547abc.js.map": "http://localhost:3000/static/js/main.b5547abc.js.map",
+    "496.00ca179d.chunk.js.map": "http://localhost:3000/static/js/496.00ca179d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26b4226f.css",
-    "static/js/main.ba5389c0.js"
+    "static/css/main.0148fa34.css",
+    "static/js/main.b5547abc.js"
   ]
 }
